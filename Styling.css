@@ -1,0 +1,59 @@
+h1 {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 65px;
+    font-style: italic;
+    color:rgb(225, 137, 181);
+    background-color: rgb(230, 216, 255);
+}
+h1.Rasp {
+    color:rgb(215, 56, 104);
+    background-color: rgb(224, 238, 223);
+}
+p {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    font-weight: 600;
+    color:rgb(94, 89, 139);
+}
+p.Rasp {
+    color:rgb(125, 76, 87);
+}
+p.RaspIn {
+    color:rgb(125, 76, 87);
+    background-color:rgb(255, 234, 245)
+}
+h2 {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 30px;
+    font-weight: bold;
+    color:rgb(94, 89, 139);
+    background-color: rgb(230, 216, 255);
+}
+h2.Rasp {
+    color:rgb(125, 76, 87);
+    background-color: rgb(224, 238, 223);
+}
+ul {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    font-weight: 600;
+    color:rgb(94, 89, 139);
+}
+ul.Rasp {
+    color:rgb(125, 76, 87);
+}
+ol {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    font-weight: 600;
+    color:rgb(125, 76, 87);
+    background-color:rgb(255, 234, 245)
+}
+a {
+    color:rgb(165, 90, 122);
+}
+a.Back {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: rgb(230, 216, 255);
+    color:rgb(165, 90, 122);
+}
