@@ -9,6 +9,10 @@ h1.Rasp {
     color:rgb(215, 56, 104);
     background-color: rgb(224, 238, 223);
 }
+h1.Bsu {
+    color:rgb(237, 205, 64);
+    background-color: rgb(255, 202, 142);
+}
 p {
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 20px;
