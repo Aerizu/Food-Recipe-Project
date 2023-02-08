@@ -11,20 +11,22 @@ h1.Rasp {
 }
 h1.Bsu {
     color:rgb(237, 205, 64);
-    background-color: rgb(255, 202, 142);
+    background-color: #ffedd8;
 }
 p {
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 20px;
     font-weight: 600;
+    color:rgb(125, 76, 87);
+}
+p.Menu {
     color:rgb(94, 89, 139);
 }
-p.Rasp {
-    color:rgb(125, 76, 87);
-}
-p.RaspIn {
-    color:rgb(125, 76, 87);
+p.RaspI {
     background-color:rgb(255, 234, 245)
+}
+p.Bisu {
+    background-color:rgb(207, 254, 205)
 }
 h2 {
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -37,13 +39,17 @@ h2.Rasp {
     color:rgb(125, 76, 87);
     background-color: rgb(224, 238, 223);
 }
+h2.Bsu {
+    color:rgb(125, 76, 87);
+    background-color: rgb(255, 249, 222);
+}
 ul {
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 20px;
     font-weight: 600;
     color:rgb(94, 89, 139);
 }
-ul.Rasp {
+ul.All {
     color:rgb(125, 76, 87);
 }
 ol {
