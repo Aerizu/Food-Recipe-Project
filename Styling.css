@@ -13,6 +13,10 @@ h1.Bsu {
     color:rgb(237, 205, 64);
     background-color: #ffedd8;
 }
+h1.Pep {
+    color:rgb(255, 253, 253);
+    background-color: #c61515;
+}
 p {
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 20px;
@@ -57,7 +61,7 @@ ol {
     font-size: 20px;
     font-weight: 600;
     color:rgb(125, 76, 87);
-    background-color:rgb(255, 234, 245)
+    background-color:rgb(225, 225, 225)
 }
 a {
     color:rgb(165, 90, 122);
