@@ -17,6 +17,10 @@ h1.Pep {
     color:rgb(255, 253, 253);
     background-color: #c61515;
 }
+h1.Pud {
+    color:rgb(168, 132, 132);
+    background-color: #5f3434;
+}
 p {
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 20px;
@@ -30,7 +34,13 @@ p.RaspI {
     background-color:rgb(255, 234, 245)
 }
 p.Bisu {
-    background-color:rgb(207, 254, 205)
+    background-color:rgb(204, 233, 203)
+}
+p.Pep {
+    background-color:rgb(255, 188, 188)
+}
+p.Pud {
+    background-color:rgb(193, 151, 151)
 }
 h2 {
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -47,13 +57,21 @@ h2.Bsu {
     color:rgb(125, 76, 87);
     background-color: rgb(255, 249, 222);
 }
+h2.Pep {
+    color:rgb(248, 248, 248);
+    background-color: rgb(220, 30, 30);
+}
+h2.Pud {
+    color:rgb(186, 131, 142);
+    background-color: rgb(116, 66, 66);
+}
+ul.All {
+    color:rgb(94, 89, 139);
+}
 ul {
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 20px;
     font-weight: 600;
-    color:rgb(94, 89, 139);
-}
-ul.All {
     color:rgb(125, 76, 87);
 }
 ol {
